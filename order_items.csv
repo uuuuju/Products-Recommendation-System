@@ -1,0 +1,16 @@
+order_id,customer_id,product_id,product_name,category,price
+1,101,1,Protein Powder Premium,Fitness,1999
+1,101,2,Shaker Bottle Classic,Fitness,399
+2,102,4,Milk Fresh,Dairy,60
+2,102,5,Bread Whole Wheat,Bakery,45
+2,102,6,Butter Premium,Dairy,120
+3,103,9,Rice Classic,Staples,550
+3,103,10,Premium Basmati Rice,Staples,899
+4,104,11,Greek Yogurt,Dairy,140
+4,104,12,Peanut Butter Crunchy,Breakfast,260
+4,104,7,Jam Strawberry,Breakfast,150
+5,105,8,Oats Organic,Breakfast,220
+5,105,4,Milk Fresh,Dairy,60
+5,105,11,Greek Yogurt,Dairy,140
+6,106,1,Protein Powder Premium,Fitness,1999
+6,106,3,Creatine Gold,Fitness,999
